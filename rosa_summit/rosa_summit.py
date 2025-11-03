@@ -387,6 +387,5 @@ def main():
         rclpy.shutdown()
         print("Bye from rosa_summit.")
 
-
 if __name__ == "__main__":
     main()
