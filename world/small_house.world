@@ -225,6 +225,7 @@
         </include>
         <pose frame=''>6.55269 0.951173 -0.000006 0 -0 -1.564130</pose>
 	</model>
+     <!-- KitchenTable_01_002 is a copy of KitchenTable_01_001, so that we can have two different textures for the table. -->
 	<model name='ReadingDesk_01_001'>
         <static>true</static>    
         <include>
