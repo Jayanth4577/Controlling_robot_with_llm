@@ -352,6 +352,7 @@ def main():
     )
 
     print("Type 'exit' or 'quit' to end the program")
+    # quit on keyboard interrupt or when user types exit/quit
 
     try:
         while True:
